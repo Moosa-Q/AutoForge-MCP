@@ -24,6 +24,22 @@ npm install  # or pip install -r requirements.txt
 
 ## 📖 Usage
 
-1. Configure your tools in the `src/tools` directory.
-2. Run `npm start` to initialize the MCP server.
-3. Connect your favorite LLM client to the server endpoint.
+1. Create the MCP Server
+Run:
+```
+uv run main.py
+```
+Select Option 1 to create an mcp server and then describe your mcp server and the tools that should be in it
+You will see a new file popup in vs code
+2. Run that MCP server
+Run
+```
+uv run script_name.py
+```
+Fill in script_name.py with the new file containing the MCP server by the AI.
+3. Run the Client UI to test
+Run:
+```
+uv run main.py
+```
+Select Option 3 to Launch Client UI
