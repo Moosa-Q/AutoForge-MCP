@@ -12,13 +12,10 @@ Automated Schema Generation: Auto-sync your tools with MCP specifications.
 
 Built-in Debugger: Pre-configured environments for local testing.
 
-
-# 🚨 IMPORTANT
-As of right now, AutoForge-MCP only supports OpenAI for mcp creation and usage. 
-
 # 📋 Requirements
 
 - UV ([https://docs.astral.sh/uv/#installation](https://docs.astral.sh/uv/#installation))
+- OpenAI API Key
 
 # 🛠 Installation
 
