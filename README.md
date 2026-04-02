@@ -14,8 +14,8 @@ Built-in Debugger: Pre-configured environments for local testing.
 
 # 📋 Requirements
 
-- UV ([https://docs.astral.sh/uv/#installation](https://docs.astral.sh/uv/#installation))
-- OpenAI API Key
+- UV --> [https://docs.astral.sh/uv/#installation](Click here)
+- OpenAI API Key --> [https://platform.openai.com/home](Click here)
 
 # 🛠 Installation
 
