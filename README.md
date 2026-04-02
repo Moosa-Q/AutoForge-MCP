@@ -25,20 +25,20 @@ npm install  # or pip install -r requirements.txt
 ## 📖 Usage
 
 1. Create the MCP Server
-Run:
+- Run:
 ```
 uv run main.py
 ```
 - Select Option 1 to create an mcp server and then describe your mcp server and the tools that should be in it
 - You will see a new file popup in vs code
 2. Run that MCP server
-Run
+- Run
 ```
 uv run script_name.py
 ```
 - Fill in script_name.py with the new file containing the MCP server by the AI.
 3. Run the Client UI to test
-Run:
+- Run:
 ```
 uv run main.py
 ```
