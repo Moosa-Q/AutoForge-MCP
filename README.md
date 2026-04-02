@@ -19,7 +19,7 @@ AutoForge-MCP is a streamlined toolkit designed to accelerate the creation, test
 ```powershell
 git clone https://github.com/Moosa-Q/AutoForge-MCP.git
 cd AutoForge-MCP
-npm install  # or pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ## 📖 Usage
